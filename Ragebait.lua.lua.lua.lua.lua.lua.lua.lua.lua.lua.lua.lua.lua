@@ -1,13 +1,3 @@
---[[
-    KILASIK's Multi-Target Fling Exploit
-    Based on the working fling mechanism from zqyDSUWX
-    Features:
-    - Select multiple targets
-    - Continuous flinging until stopped
-    - Preserves player mobility (no teleporting to targets)
-    - Flings targets very far
-    - Compatible with JJSploit, Synapse X, etc.
-]]
 -- Services
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
